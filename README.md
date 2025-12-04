@@ -5,5 +5,5 @@ Features:
 - Filters out outliers to keep results accurate
 - Computes average gap per track across chosen years
 - Identifies the driver’s strongest qualifying tracks (largest positive gaps)
-- Generates a clean visualization of the top circuits where the driver performs best
+- Generates a clear bar graph highlighting their top qualifying circuits
 - Customizable for any driver, year range, and number of top tracks

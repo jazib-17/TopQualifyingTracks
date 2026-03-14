@@ -87,15 +87,6 @@ python qualifying_analyzer.py
 
 ---
 
-## 📁 Project Structure
-
-```
-├── qualifying_analyzer.py  # Main script
-└── fastf1_cache/           # Auto-populated cache directory
-```
-
----
-
 ## 🔧 Customization
 
 | Variable | Description |
